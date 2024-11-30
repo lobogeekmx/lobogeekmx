@@ -11,6 +11,9 @@ Full-stack Senior Web Developer
 ### Skills
 
 <p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
@@ -23,9 +26,10 @@ Full-stack Senior Web Developer
 <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/azure.png" width="36" height="36" alt="Azure" />
 </a>
-<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-entity-framework-an-open-source-object-relational-mapper-tool-for-dot-net-logo-shadow-tal-revivo.png" width="36" height="36" alt="Entity Framework" />
+<a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="36" height="36" alt="Azure" />
 </a>
+
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="36" height="36" alt="API" />
 </a>
