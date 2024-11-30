@@ -26,10 +26,6 @@ Full-stack Senior Web Developer
 <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/azure.png" width="36" height="36" alt="Azure" />
 </a>
-<a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="36" height="36" alt="Azure" />
-</a>
-
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="36" height="36" alt="API" />
 </a>
