@@ -18,20 +18,18 @@ Full-stack Senior Web Developer
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://learn.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlserver-colored.svg" width="36" height="36" alt="SQL Server" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="SQL Server" />
 </a>
 <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" />
+  <img src="https://img.icons8.com/color/48/000000/azure.png" width="36" height="36" alt="Azure" />
 </a>
 <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/entityframework-colored.svg" width="36" height="36" alt="Entity Framework" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-entity-framework-an-open-source-object-relational-mapper-tool-for-dot-net-logo-shadow-tal-revivo.png" width="36" height="36" alt="Entity Framework" />
 </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/api-colored.svg" width="36" height="36" alt="API" />
+  <img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="36" height="36" alt="API" />
 </a>
+
 
 </p>
 
